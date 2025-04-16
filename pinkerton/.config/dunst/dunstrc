@@ -1,0 +1,26 @@
+[global]
+    font = Classic Console 14
+    background = "#000000"
+    foreground = "#fceac2"
+    frame_color = "#fceac2"
+
+[urgency_low]
+    background = "#000000"
+    foreground = "#98e024"
+    highlight = "#98e024"
+    frame_color = "#98e024"
+    timeout = 2
+
+[urgency_normal]
+    background = "#000000"
+    foreground = "#98e024"
+    highlight = "#98e024"
+    frame_color = "#98e024"
+    timeout = 10
+
+[urgency_critical]
+    background = "#000000""
+    foreground = "#f4005f"
+    highlight = "#f4005f"
+    frame_color = "#f4005f"
+    timeout = 10

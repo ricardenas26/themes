@@ -1,0 +1,14 @@
+[general]
+  import = ["~/.config/alacritty/themes/monokai.toml"]
+
+
+[window]
+  title = "ricardenas"
+
+[font]
+  size = 12
+  offset = { x = 0 , y = 0}
+
+[font.normal]
+  family = "Classic Console"
+  style = "Regular"
